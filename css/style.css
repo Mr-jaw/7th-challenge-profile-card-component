@@ -79,6 +79,7 @@ main {
     background-color: white;
     max-width: 24em;
     border-radius: 1em;
+    z-index: 111111;
 
 }
 
